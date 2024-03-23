@@ -12,7 +12,7 @@ Install the required dependencies using pip: pip install -r requirements.txt
 Run the Flask application: python app.py
 Access the web app through your browser at http://localhost:5000
 Usage
-Navigate to the deployed site:https://sfd-bmd-beam-calculator.onrender.com/
+Navigate to the deployed site:coming soon
 Input: Beam Length, Type of Loading, Position of Loading, Magnitude of Loading, Type of Supports
 Calculate shear force and bending moment
 Visualize shear force and bending moment diagrams
